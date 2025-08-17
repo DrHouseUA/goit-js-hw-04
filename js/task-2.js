@@ -4,7 +4,6 @@ console.log('Task 2 begins here:');
 function calcAverageCalories(days) {
   let calcAverageCalories = 0;
   const arrayOfObjectDays = [...days];
-  console.log(arrayOfObjectDays);
 
   if (arrayOfObjectDays.length === 0) {
     return calcAverageCalories;
