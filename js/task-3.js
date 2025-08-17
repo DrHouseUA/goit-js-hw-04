@@ -1,5 +1,7 @@
 'use strict';
 
+console.log('Task 3 begins here:');
+
 const profile = {
   username: 'Jacob',
   playTime: 300,

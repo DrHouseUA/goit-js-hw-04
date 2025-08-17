@@ -1,4 +1,5 @@
 'use strict';
+console.log('Task 1 begins here:');
 
 function isEnoughCapacity(products, containerSize) {
   let productsSize = 0;
